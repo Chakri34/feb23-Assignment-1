@@ -1,4 +1,4 @@
-# feb23-Assignment-1
+# feb23-Assignment-2
 l=[]
 n=int(input('enter n:'))
 for i in range(n):
